@@ -1,6 +1,6 @@
 ---
-title: '01 - Dummy Post'
-date: 2020-10-28
+title: 'first test post'
+date: 2022-07-19
 tags:
   - css
   - javascript
