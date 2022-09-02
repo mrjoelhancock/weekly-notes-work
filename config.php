@@ -4,16 +4,17 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'Joel Hancock work notes',
-        'description' => 'Notes on product development.',
+        'title' => 'Joel Hancock',
+        'description' => 'Notes on life and work.',
         'image' => 'default-share.png',
     ],
     'owner' => [
         'name' => 'John Doe',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'instagram' => 'https://www.instagram.com/mrjoelhancock',
+        'linkedin' => 'https://www.linkedin.com/in/mrjoelhancock'
+        /*'github' => 'https://github.com/mrjoelhancock',*/
     ],
     'services' => [
         'cmsVersion' => '~2.10',
