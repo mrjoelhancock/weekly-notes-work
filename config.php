@@ -9,7 +9,7 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Joel Hancock',
     ],
     'links' => [
         'instagram' => 'https://www.instagram.com/mrjoelhancock',
