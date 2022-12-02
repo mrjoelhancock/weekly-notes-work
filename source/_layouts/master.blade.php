@@ -21,7 +21,6 @@
         <header>
             <h1>{{ $page->site->title }}</h1>
             <nav>
-                <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/posts">Posts</a></li>
                 </ul>
